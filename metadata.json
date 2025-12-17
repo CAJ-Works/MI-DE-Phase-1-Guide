@@ -1,0 +1,5 @@
+{
+  "name": "Driver's Ed Prep",
+  "description": "A study guide and practice test application for Segment 1 Driver's Education, featuring flashcard study modes and graded practice exams.",
+  "requestFramePermissions": []
+}
